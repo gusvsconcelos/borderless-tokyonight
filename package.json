@@ -2,8 +2,9 @@
   "name": "tokyo-night-borderless",
   "publisher": "gusvasconcelos",
   "displayName": "Borderless Tokyo Night",
-  "description": "A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
-  "version": "0.0.1",
+  "description": "A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night",
+  "icon": "icon.png",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -13,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tokyo Night",
+        "label": "Borderless Tokyo Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Tokyo Night-color-theme.json"
       }
