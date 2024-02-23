@@ -2,7 +2,7 @@
 
 All notable changes to the "borderless-tokyo-night" extension will be documented in this file.
 
-## [Version 1.0.0]
+## [1.0.0]
 
 ### Changed
 
