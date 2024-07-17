@@ -33,7 +33,7 @@
     "focusBorder": "#545c7e33",
     "errorForeground": "#515670",
     "widget.shadow": "#ffffff00",
-    "scrollbar.shadow": "#00000033",
+    "scrollbar.shadow": "#00000000",
     "badge.background": "#7e83b230",
     "badge.foreground": "#acb0d0",
     "icon.foreground": "#787c99",
@@ -159,7 +159,7 @@
     "editor.wordHighlightStrongBackground": "#515c7e55",
     "editor.selectionHighlightBackground": "#515c7e44",
 
-    "editorCursor.foreground": "#c0caf5",
+    "editorCursor.foreground": "#737aa2",
     "editorIndentGuide.background1": "#1e202e",
     "editorIndentGuide.activeBackground1": "#363b54",
     "editorLineNumber.foreground": "#363b54",
@@ -211,7 +211,8 @@
     "editorGroupHeader.noTabsBackground": "#16161e",
     "editorGroupHeader.border": "#16161e00",
 
-    "editorPane.background": "#16161e",
+    // "editorPane.background": "#16161e",
+    "editorPane.background": "#7b7b8d",
 
     "editorWidget.foreground": "#787c99",
     "editorWidget.background": "#16161e",
